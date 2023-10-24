@@ -199,6 +199,7 @@ footer {
 
 .social-links a {
     margin-right: 25px;
+    padding: 0 10px;
 }
 
 .contact input[type="text"],
